@@ -1,2 +1,2 @@
-# StajHaz-rl-k
+# StajHazırlık
 Staja hazırlık için öğrenmek amacıyla yapılan projeler
